@@ -1,3 +1,3 @@
-# NC_A.L.I.C.E.
+# rosenia
 
-The Artificial Intelligence Markup Language files for [NightCrazy](https://facebook.com/star.nightcrazy).
+The chatbot markups for [NightCrazy](https://nc.starinc.xyz).
